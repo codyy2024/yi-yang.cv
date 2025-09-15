@@ -13,6 +13,7 @@
 - Interests in life: Travelling, Reading, Plays badminton, Foodie, *Zither* player, DIYer
 
 ## EXPERIENCE
+
 ### Profusion Media Ltd. (UK)
 Campaign Manager, 04/2023 - Present &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Campaign Coordinator, 08/2022 - 04/2023
 - Managed multi-channel digital marketing campaigns (email, SMS, web) for up to 9+ clients across industries including financial services, retail, and automotive, ensuring seamless execution and measurable success.
