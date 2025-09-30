@@ -40,4 +40,6 @@
 - Held customer-facing roles, including organizing and guiding international tours in China.
 
 ## EDUCATION
-BSc in Geophysics Engineering &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; Yangtze University (China) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 09/2025 - 07/2029
+BSc in Geophysics Engineering\
+Yangtze University (China)\
+09/2025 - 07/2029
