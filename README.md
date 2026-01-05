@@ -9,7 +9,7 @@
 - Last but not least, father of a little annoying cutie 👨‍👧
 
 ## SKILLS
-- Hard/Technical skills: Full Stack Deveolper Curriculum learner ([in progress](https://github.com/codyy2024/code-learning-journal/)); excellent technical literacy overall and quick to learn new things (technical or non-technical)
+- Hard/Technical skills: Full Stack Developer Curriculum learner ([in progress](https://github.com/codyy2024/code-learning-journal/)); excellent technical literacy overall and quick to learn new things (technical or non-technical)
 - Soft skills: project management, problem solving, attention to detail, proactiveness, relationship management
 - Interests in life: Travelling, Reading, Plays badminton, Foodie, *Zither* player, DIYer
 
