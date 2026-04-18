@@ -19,7 +19,7 @@
 *Technical Campaign Manager, 10/2025 - Present*\
 *Campaign Manager, 04/2023 - 09/2025*\
 *Campaign Coordinator, 08/2022 - 04/2023*
-- Work autonomously and as a part of a CRM team of 10+ and manage email and SMS campaigns for up to 9+ clients simultaneously across financial service, retail and automotive using a variety of marketing automation tools.
+- Work autonomously and as a part of a CRM team of 10+ and manage email and SMS campaigns for up to 9+ clients simultaneously across financial service, retail and automotive using audience segmentation, A/B testing and more.
 - Built and nurtured strong client relationships by understanding their business strategic plan and campaign needs, proactively offering solutions, and optimizing campaign performance through A/B testing and dynamic content through hands-on in building audience segmentation.
 - Managed and supported with technical automation projects, Customer Data Hub migration, Proof of Concept and User Acceptance Testing of the second biggest client, and owner of team’s documentation hub on Confluenc (spearheading process and workflow improvement, standardizing best practices and coaching new joiners on technical processes).
 - Promoted to Campaign Manager within 8 months (a record timeframe) with no prior Adobe Campaign experience due to outstanding performance, strategic thinking, and excellent team collaboration.
